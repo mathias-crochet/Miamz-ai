@@ -29,7 +29,7 @@ Une application mobile développée avec Expo et React Native qui utilise l'inte
 
 1. Clonez le repository :
 ```bash
-git clone [url-du-repo]
+git clone https://github.com/mathias-crochet/Miamz-ai.git
 cd miamz-food-detection-app
 ```
 
